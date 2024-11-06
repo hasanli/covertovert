@@ -6,8 +6,9 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
-
+member1: Unal Hasanli, 2589877
+member2: Berk Acikel, 2521169
+groupid: 51
 
 .. toctree::
    :maxdepth: 2
